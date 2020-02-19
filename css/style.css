@@ -82,14 +82,13 @@ body {
   margin: 2px;
 }
 #strong-unread {
-  font-weight: 700
+  font-weight: 700;
 }
 #strong-unread::before {
   content: '\272D';
 }
 
 /* stile per footer */
-
 footer {
   border-top: 1px solid white;
   margin: 15px 0;
