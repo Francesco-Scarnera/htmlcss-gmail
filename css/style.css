@@ -59,6 +59,7 @@ body {
   background-color: rgba(170, 237, 33, 0.8);
   padding: 5px;
   border: 1px solid #000;
+  margin: 1px;
 }
 .strong {
   font-weight: 700;
@@ -67,7 +68,7 @@ body {
   content:'\2729';
 }
 .light {
-  color: #a9a9a9;
+  color: #5F6752;
 }
 .light::after {
   content: '...'
@@ -78,6 +79,7 @@ body {
   background-color: rgba(170, 237, 33, 0.5);
   padding: 5px;
   border: 1px solid #000;
+  margin: 1px;
 }
 #strong-unread {
   font-weight: 700
